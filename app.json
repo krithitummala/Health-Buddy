@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "health-buddy-1",
+    "slug": "snack-db620b26-20c2-434d-a581-3cad5910fcef",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.krithi_tummala.snackdb620b2620c2434da5813cad5910fcef"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
